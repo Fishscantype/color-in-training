@@ -30,3 +30,5 @@ Woah! Another codeblock!
 ![Whoops! The img didn't load](pineapple.png)
 
 [The *pineapple* of death! (Click for source of image)](http://www.bristolglobal.com/site/templates/images/pineapple.png)
+
+**PLOT TWIST! I AM THE PINEAPPLE! I WROTE THIS!**
