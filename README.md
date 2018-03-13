@@ -20,8 +20,8 @@ The winner gets a **nice high five***. 👍
 
 | Name                                                   | Tips |
 |--------------------------------------------------------|------|
-| [@Fishscantype](https://github.com/Fishscantype)       | 2 |
-| [@MP-MaximusPrime](https://github.com/MP-MaximusPrime) | 2 |
+| [@Fishscantype](https://github.com/Fishscantype)       | 3 |
+| [@MP-MaximusPrime](https://github.com/MP-MaximusPrime) | 3 |
 | [@PotatoLover95](https://github.com/PotatoLover95)     | 2 |
 
 ## Submitting Assignments
