@@ -8,7 +8,7 @@ There are **no rules** and **no necessary utilities**.
 
 You just need to work in teams and adhere too the Color guidelines.
 
-This can be potentially a 2+ month long project, **I EXPECT PROFESSIONAL LEVEL WORK**.
+This can be potentially a 1+ month long project, **I EXPECT PROFESSIONAL LEVEL WORK**.
 
 The end result should be an app hosted on Heroku (or something else, it simply needs to be deployed somewhere).
 
