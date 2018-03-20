@@ -14,4 +14,4 @@ They wish to publish an online catalog for their products.
 
 Can you make a fully self-sustainable app that uses Express, Webpack/Parcel and more?
 
-You can access their data with Clauneck by using their handle: `@cinnamon_roll`, or `#17`.
+You can access their data with Clauneck by using their handle: `@cinnamon_roll`, or `#18`.

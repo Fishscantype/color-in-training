@@ -2,6 +2,8 @@
 
 Tips: `1`
 
+Prerequisites: none
+
 This assignment reviews your MarkDown knowledge!
 You will make a file called `YOUR-NAME.md`, with `YOUR-NAME` replaced with your name.
 

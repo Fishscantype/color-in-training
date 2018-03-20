@@ -2,6 +2,8 @@
 
 Tips: `1.25`
 
+Prerequisites: `#3`
+
 This assignment reviews your CSS knowledge!
 You will make a file called `YOUR-NAME.css`, with `YOUR-NAME` replaced with your name.
 
