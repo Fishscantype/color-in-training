@@ -2,6 +2,8 @@
 
 Tips: `9`
 
+Prerequisites: none
+
 This will test your ability to problem-solve and read documentation. This is one of the most real-world problems you will encounter.
 
 **THIS IS A DIFFICULT PROJECT. THIS IS A REMINDER THAT YOU DO NOT HAVE TO COMPLETE THE PROJECTS IN ORDER**

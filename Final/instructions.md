@@ -2,6 +2,8 @@
 
 Tips: `10-30`
 
+Prerequisites: All other assignments
+
 This is your **final** assignment!
 
 There are **no rules** and **no necessary utilities**.

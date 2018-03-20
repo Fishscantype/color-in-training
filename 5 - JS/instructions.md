@@ -2,6 +2,8 @@
 
 Tips: `2`
 
+Prerequisites: `#3` (Only for option 1)
+
 This assignment reviews your JS knowledge!
 You will make a file called `YOUR-NAME.js`, with `YOUR-NAME` replaced with your name.
 

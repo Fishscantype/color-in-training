@@ -2,6 +2,8 @@
 
 Tips: `3`
 
+Prerequisites: none
+
 This assignment reviews your Node.js knowledge!
 You will make a folder called `YOUR-NAME`, with `YOUR-NAME` replaced with your name.
 
