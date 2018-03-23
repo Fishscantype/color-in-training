@@ -2,6 +2,8 @@
 
 Tips: `1.5`
 
+Prerequisites: `#2`
+
 This assignment reviews your HTML knowledge!
 You will make a file called `YOUR-NAME.html`, with `YOUR-NAME` replaced with your name.
 
