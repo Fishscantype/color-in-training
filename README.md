@@ -21,7 +21,7 @@ The winner gets a **nice high five***. 👍
 | Name                                                   | Tips |
 |--------------------------------------------------------|------|
 | ~~[@PotatoLover95](https://github.com/PotatoLover95)~~     | `N/A` |
-| [@Fishscantype](https://github.com/Fishscantype)       | 2.95 |
+| [@Fishscantype](https://github.com/Fishscantype)       | `4.45` |
 | [@MP-MaximusPrime](https://github.com/MP-MaximusPrime) | `3` |
 
 ## Submitting Assignments
