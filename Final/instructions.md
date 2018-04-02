@@ -2,7 +2,7 @@
 
 Tips: `10-30`
 
-Prerequisites: All other assignments
+Prerequisites: None (I recommend starting when you feel ready!)
 
 This is your **final** assignment!
 
