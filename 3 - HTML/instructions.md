@@ -9,7 +9,7 @@ You will make a file called `YOUR-NAME.html`, with `YOUR-NAME` replaced with you
 
 You will convert your MarkDown file from `#2` to HTML code.
 
-It will also require at least:
+It will require at least:
 
 - 1 Form
   - 7 Different Inputs
@@ -19,6 +19,6 @@ It will also require at least:
 - 2 Comments
 - Classes to group sections
 
-***Not as elements, but as parts of the page**
+***Not necessarily as elements, but as parts of the page**
 
 ****Make sure to include a doctype**

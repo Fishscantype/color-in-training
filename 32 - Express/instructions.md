@@ -8,7 +8,7 @@ You will develop an app under the following scenario:
 
 ## Scenario
 
-You are hired as a full-stack freelance developer by *Cinnamon Roll, Inc.*
+You are hired as a full-stack freelance developer by *Cinnamon Roll, Inc.* **(Any actual company called this is unrelated to this project, and none of the work is intended to represent or have any connections to the company.)**
 
 They wish to publish an online catalog for their products.
 

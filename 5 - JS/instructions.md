@@ -36,4 +36,4 @@ They must have at least the following:
 </html>
 ```
 
-****Don't know what to use? Check out #31!**
+****Don't know what to use? Check out #31 om Trello!**

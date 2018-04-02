@@ -6,7 +6,7 @@ Prerequisites: none
 
 This will test your ability to problem-solve and read documentation. This is one of the most real-world problems you will encounter.
 
-**THIS IS A DIFFICULT PROJECT. THIS IS A REMINDER THAT YOU DO NOT HAVE TO COMPLETE THE PROJECTS IN ORDER**
+**THIS PROJECT IS A DIFFICULT ONE. THIS IS A REMINDER THAT YOU DO NOT HAVE TO COMPLETE THE PROJECTS IN ORDER**
 
 You will research one of the following technologies thoroughly and create a project based on what you choose.
 
