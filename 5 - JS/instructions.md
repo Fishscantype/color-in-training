@@ -4,7 +4,12 @@ Tips: `2`
 
 Prerequisites: `#3` (Only for option 1)
 
-This assignment reviews your JS knowledge!
+## Brief
+
+While HTML is the webpage's bones and CSS is the skin, JavaScript is the brain, muscles and nerves. It adds functionality to the page.
+
+## Directions
+
 You will make a file called `YOUR-NAME.js`, with `YOUR-NAME` replaced with your name.
 
 You have 2 options for this project:
@@ -36,4 +41,10 @@ They must have at least the following:
 </html>
 ```
 
-****Don't know what to use? Check out #31 om Trello!**
+****Don't know what to use? Check out #31 on Trello!**
+
+## Helpful Links
+
+- [Codecademy's JavaScript Course](https://www.codecademy.com/learn/introduction-to-javascript)
+- [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JS CheatSheet](http://htmlcheatsheet.com/js/)

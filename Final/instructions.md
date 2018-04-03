@@ -4,11 +4,15 @@ Tips: `10-30`
 
 Prerequisites: None (I recommend starting when you feel ready!)
 
+## Brief
+
 This is your **final** assignment!
 
 There are **no rules** and **no necessary utilities**.
 
 You just need to work in teams and adhere to the [Color guidelines](https://aeioio.github.io/).
+
+## Directions
 
 You should find your teammates and create some slack channels for your project.
 
@@ -20,8 +24,6 @@ I **will** be looking and contributing to the projects. The more pull requests I
 
 I lied, there is a rule: **Have Fun**!
 
-That's a main point of life, after all!
-
 🎉🎉
 
-**Congrats on making it this far**
+**Congrats on making it this far! 😃**

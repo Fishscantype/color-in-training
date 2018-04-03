@@ -2,6 +2,12 @@
 
 Tip: `8`
 
+## Brief
+
+The ecosystem of web development is fast, and Front-End Frameworks are all the fad. There are [many](https://github.com/collections/front-end-javascript-frameworks) front end frameworks, but my favourites are React and Vue.
+
+## Directions
+
 You will make a file called `YOUR-NAME.md`, with `YOUR-NAME` replaced with your name.
 
 In that file will be a link to a repo.
