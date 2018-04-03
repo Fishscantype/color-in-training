@@ -21,7 +21,7 @@ The winner gets a **nice high five***. 👍
 | Name                                                   | Tips |
 |--------------------------------------------------------|------|
 | ~~[@PotatoLover95](https://github.com/PotatoLover95)~~     | `N/A` |
-| [@Fishscantype](https://github.com/Fishscantype)       | 2.95 |
+| [@Fishscantype](https://github.com/Fishscantype)       | `4.45` |
 | [@MP-MaximusPrime](https://github.com/MP-MaximusPrime) | `3` |
 
 ## Submitting Assignments
@@ -36,3 +36,5 @@ To submit an assignment you should:
 6. Your done!
 
 ***Any suggestions for prizes is greatly appreciated!**
+
+Any typo fixes and other instruction polishing are appreciated and might reward tips!
