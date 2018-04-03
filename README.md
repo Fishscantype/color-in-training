@@ -23,6 +23,7 @@ The winner gets a **nice high five***. 👍
 | ~~[@PotatoLover95](https://github.com/PotatoLover95)~~     | `N/A` |
 | [@Fishscantype](https://github.com/Fishscantype)       | `4.45` |
 | [@MP-MaximusPrime](https://github.com/MP-MaximusPrime) | `3` |
+| [@AplacaAdri](https://github.com/AlpacaAdri)   | `2` |
 
 ## Submitting Assignments
 
@@ -38,3 +39,7 @@ To submit an assignment you should:
 ***Any suggestions for prizes is greatly appreciated!**
 
 Any typo fixes and other instruction polishing are appreciated and might reward tips!
+
+## Links
+
+- [Trello Resources](https://trello.com/b/GhMxP7jw/%F0%9F%91%8Cresources)
