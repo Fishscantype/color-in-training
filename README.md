@@ -36,3 +36,5 @@ To submit an assignment you should:
 6. Your done!
 
 ***Any suggestions for prizes is greatly appreciated!**
+
+Any typo fixes and other instruction polishing are appreciated and might reward tips!
