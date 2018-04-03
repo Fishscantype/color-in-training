@@ -12,6 +12,8 @@ While HTML is the skeleton of the page, CSS is the skin, and adds styling to the
 
 You will make a file called `YOUR-NAME.css`, with `YOUR-NAME` replaced with your name.
 
+Link your styling to your HTML in **#3**
+
 You will be styling your HTML page from **#3**.
 
 You must include at least the following:
