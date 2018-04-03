@@ -23,6 +23,7 @@ The winner gets a **nice high five***. 👍
 | ~~[@PotatoLover95](https://github.com/PotatoLover95)~~     | `N/A` |
 | [@Fishscantype](https://github.com/Fishscantype)       | `4.45` |
 | [@MP-MaximusPrime](https://github.com/MP-MaximusPrime) | `3` |
+| [@AplacaAdri](https://github.com/AlpacaAdri)   | `2` |
 
 ## Submitting Assignments
 
