@@ -39,3 +39,7 @@ To submit an assignment you should:
 ***Any suggestions for prizes is greatly appreciated!**
 
 Any typo fixes and other instruction polishing are appreciated and might reward tips!
+
+## Links
+
+- [Trello Resources](https://trello.com/b/GhMxP7jw/%F0%9F%91%8Cresources)
