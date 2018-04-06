@@ -1,8 +1,8 @@
-# 5: JS
+# JS
 
 Tips: `2`
 
-Prerequisites: `#3` (Only for option 1)
+Prerequisites: HTML (Only for option 1)
 
 ## Brief
 

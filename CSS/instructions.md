@@ -1,8 +1,8 @@
-# 4: CSS
+# CSS
 
 Tips: `1.25`
 
-Prerequisites: `#3`
+Prerequisites: HTML
 
 ## Brief
 

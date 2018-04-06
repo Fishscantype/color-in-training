@@ -1,4 +1,6 @@
-# 2: Markdown
+# Markdown
+
+**THIS IS A GOOD STARTING PLACE!**
 
 Tips: `1`
 
