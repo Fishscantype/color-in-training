@@ -1,8 +1,10 @@
 # color-in-training
 
+## Competition
+
 **You must complete up to #16 to compete**
 
-## Rules:
+### Rules:
 
 You Get 2 Tips from Louis at the start, which you can spend whenever to ask questions and more. I'll judge how to answer and remove tips.
 
@@ -16,7 +18,7 @@ You may ask others for help, but remember that *this is a competition*
 
 The winner gets a **nice high five***. 👍
 
-## Scoreboard
+### Scoreboard
 
 | Name                                                   | Tips |
 |--------------------------------------------------------|------|
@@ -25,7 +27,7 @@ The winner gets a **nice high five***. 👍
 | [@MP-MaximusPrime](https://github.com/MP-MaximusPrime) | `3` |
 | [@AplacaAdri](https://github.com/AlpacaAdri)   | `2` |
 
-## Submitting Assignments
+### Submitting Assignments
 
 To submit an assignment you should:
 
@@ -43,3 +45,4 @@ Any typo fixes and other instruction polishing are appreciated and might reward 
 ## Links
 
 - [Trello Resources](https://trello.com/b/GhMxP7jw/%F0%9F%91%8Cresources)
+- See `links.md`
