@@ -26,6 +26,7 @@ The winner gets a **nice high five***. 👍
 | [@Fishscantype](https://github.com/Fishscantype)       | `4.45` |
 | [@MP-MaximusPrime](https://github.com/MP-MaximusPrime) | `3` |
 | [@AplacaAdri](https://github.com/AlpacaAdri)   | `2` |
+| [@mariobrostech](https://github.com/mariobrostech)   | `2` |
 
 ### Submitting Assignments
 
