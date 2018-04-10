@@ -22,11 +22,11 @@ The winner gets a **nice high five***. 👍
 
 | Name                                                   | Tips |
 |--------------------------------------------------------|------|
-| ~~[@PotatoLover95](https://github.com/PotatoLover95)~~     | `N/A` |
+| [@MP-MaximusPrime](https://github.com/MP-MaximusPrime) | `5` |
 | [@Fishscantype](https://github.com/Fishscantype)       | `4.45` |
-| [@MP-MaximusPrime](https://github.com/MP-MaximusPrime) | `3` |
+| [@mariobrostech](https://github.com/mariobrostech)   | `3` |
 | [@AplacaAdri](https://github.com/AlpacaAdri)   | `2` |
-| [@mariobrostech](https://github.com/mariobrostech)   | `2` |
+| ~~[@PotatoLover95](https://github.com/PotatoLover95)~~     | `N/A` |
 
 ### Submitting Assignments
 
