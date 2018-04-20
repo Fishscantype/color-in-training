@@ -1,8 +1,8 @@
-# 6: Codepen
+# Codepen
 
 Tips: `0.8`
 
-Prerequisites: `#3`, `#4`, `#5`
+Prerequisites: HTML, CSS, JS
 
 ## Brief
 

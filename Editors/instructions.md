@@ -1,4 +1,4 @@
-# 9 & 11: Atom & VSCode
+# Editors
 
 Tips: `0.5`
 

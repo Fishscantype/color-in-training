@@ -1,8 +1,8 @@
-# 4: CSS
+# CSS
 
 Tips: `1.25`
 
-Prerequisites: `#3`
+Prerequisites: HTML
 
 ## Brief
 
@@ -11,6 +11,8 @@ While HTML is the skeleton of the page, CSS is the skin, and adds styling to the
 ## Directions
 
 You will make a file called `YOUR-NAME.css`, with `YOUR-NAME` replaced with your name.
+
+Link your styling to your HTML in **#3**
 
 You will be styling your HTML page from **#3**.
 

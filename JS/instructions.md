@@ -1,8 +1,8 @@
-# 5: JS
+# JS
 
 Tips: `2`
 
-Prerequisites: `#3` (Only for option 1)
+Prerequisites: HTML (Only for option 1)
 
 ## Brief
 
@@ -11,6 +11,8 @@ While HTML is the webpage's bones and CSS is the skin, JavaScript is the brain, 
 ## Directions
 
 You will make a file called `YOUR-NAME.js`, with `YOUR-NAME` replaced with your name.
+
+In your HTML for **#3**, add a source to your JS.
 
 You have 2 options for this project:
 

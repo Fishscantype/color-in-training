@@ -1,8 +1,8 @@
-# 3: HTML
+# HTML
 
 Tips: `1.5`
 
-Prerequisites: `#2`
+Prerequisites: MarkDown
 
 ## Brief
 

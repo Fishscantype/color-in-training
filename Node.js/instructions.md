@@ -1,8 +1,8 @@
-# 17: Node.js
+# Node.js
 
 Tips: `3`
 
-Prerequisites: none
+Prerequisites: JS
 
 This assignment reviews your Node.js knowledge!
 

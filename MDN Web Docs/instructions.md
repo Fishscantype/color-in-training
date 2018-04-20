@@ -1,8 +1,8 @@
-# 8: MDN Web Docs
+# MDN Web Docs
 
 Tips: `9`
 
-Prerequisites: none
+Prerequisites: JS
 
 ## Brief
 
